@@ -1,0 +1,14 @@
+
+.container  {
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+@import 'bloks/promo';
+@import 'bloks/_header';
+@import 'bloks/_buttons';
+@import 'bloks/_advantages';
+@import 'bloks/_consultation';
+@import 'bloks/_forms';
+@import 'bloks/_carousel';
+@import 'bloks/_catalog';
